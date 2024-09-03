@@ -2,7 +2,7 @@
 
 ## About me 👋
 
-Exploring Business Analytics Opportunities | MSBA Student @ UC Davis | Data Analyst Intern with Experience in Marketing Research | Passionate about Leveraging Data to Drive Business Decisions
+Exploring Business Analytics Opportunities | MSBA Student @ UC Davis | Data Analyst with Two-Year Professional Experience | Passionate about Leveraging Data to Drive Business Decisions
 
 LinkedIn Profile: https://www.linkedin.com/in/zichengalexzhao
 
