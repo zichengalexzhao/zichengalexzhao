@@ -5,7 +5,7 @@
 I am currently pursuing my Master's in Business Analytics at UC Davis, with two years of professional experience in data analytics and marketing. My passion lies in using data-driven insights to optimize business strategies and improve decision-making.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zichengalexzhao)
-- 📫 **Email:** ziczhao@example.com
+- 📫 **Email:** zichengalexzhao@gmail.com
 
 ---
 
