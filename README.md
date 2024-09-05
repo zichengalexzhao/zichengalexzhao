@@ -12,15 +12,12 @@ I am currently pursuing my Master's in Business Analytics at UC Davis, with two 
 ## 🧑‍💼 Professional Experience 
 
 ### Marketing Analyst Manager @ [Shell](https://www.shell.com.cn/en_cn.html)
-*Dec 2023 - May 2024 (Practicum Project)*  
 Led a team to develop data-driven marketing strategies, achieving a **25% increase** in campaign effectiveness by optimizing engagement metrics and analyzing results using R and Tableau. Enhanced client satisfaction through improved communication and rewards management.
 
 ### Data Analyst @ Ningbo Powerhouse Capital LLP
-*Sept 2023 - Dec 2023*  
 Analyzed private equity sales data and market trends using Python, improving investment decision-making through more accurate financial forecasts and reports. Developed promotional materials to streamline fund operations.
 
 ### Quantitative Research Intern @ [IPSOS](https://www.ipsos.com/)
-*Apr 2023 - Aug 2023*  
 Developed Python scripts for statistical analysis and Excel VBA macros, enhancing market research efficiency. Provided actionable recommendations for market strategy improvements for DiDi’s South America market.
 
 ---
