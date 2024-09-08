@@ -24,7 +24,7 @@ Developed Python scripts for statistical analysis and Excel VBA macros, enhancin
 
 ## 📊 Key Projects
 
-### Impact of Elon Musk’s Tweets on Tesla's Stock Price
+### [Impact of Elon Musk’s Tweets on Tesla's Stock Price](https://drive.google.com/file/d/1XM0R5Wx0B1BDIwM_qSjXGOVKmUtJIVvP/view?usp=drive_link)
 *Tools: Python, SQL, Random Forest Regression*  
 Analyzed the effect of Elon Musk’s tweets on Tesla's stock prices and developed a predictive model using sentiment analysis.
 
