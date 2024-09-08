@@ -24,6 +24,10 @@ Developed Python scripts for statistical analysis and Excel VBA macros, enhancin
 
 ## 📊 Key Projects
 
+### [BCG - Data Scientist Job Simulation](zichengalexzhao/BCGDataScienceProject)
+*Tools: Python, Random Forest Regression*  
+Led a customer churn analysis by utilizing the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
+
 ### [Impact of Elon Musk’s Tweets on Tesla's Stock Price](https://drive.google.com/file/d/1XM0R5Wx0B1BDIwM_qSjXGOVKmUtJIVvP/view?usp=drive_link)
 *Tools: Python, SQL, Random Forest Regression*  
 Analyzed the effect of Elon Musk’s tweets on Tesla's stock prices and developed a predictive model using sentiment analysis.
