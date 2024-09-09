@@ -24,7 +24,7 @@ Developed Python scripts for statistical analysis and Excel VBA macros, enhancin
 
 ## 📊 Key Projects
 
-### [BCG - Data Scientist Job Simulation](zichengalexzhao/BCGDataScienceProject)
+### [BCG - Data Scientist Job Simulation](https://github.com/zichengalexzhao/BCGDataScienceProject)
 *Tools: Python, Random Forest Regression*  
 Led a customer churn analysis by utilizing the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
 
