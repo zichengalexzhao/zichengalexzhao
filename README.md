@@ -11,14 +11,20 @@ I am currently pursuing my Master's in Business Analytics at UC Davis, with two 
 
 ## 🧑‍💼 Professional Experience 
 
-### Marketing Analyst Manager @ [Shell](https://www.shell.com.cn/en_cn.html)
-Led a team to develop data-driven marketing strategies, achieving a **25% increase** in campaign effectiveness by optimizing engagement metrics and analyzing results using R and Tableau. Enhanced client satisfaction through improved communication and rewards management.
+### Data Analyst(Practicum Project) @ [Alexander Tutoring](https://alexandertutoring.com/)
+
+Constructed a Weighted Logistic Regression model with 74% accuracy to predict customer churn, flagging at-risk customers. Developed a K-means clustering model to segment customers by payment behavior, identifying high, moderate, and low spenders.
+
+
+### Marketing Analyst Manager (Practicum Project) @ [Shell](https://www.shell.com.cn/en_cn.html)
+Led a team to develop data-driven marketing strategies, achieving a **12% increase** in campaign effectiveness by optimizing engagement metrics and analyzing results using R and Tableau. Enhanced client satisfaction through improved communication and rewards management.
 
 ### Data Analyst @ Ningbo Powerhouse Capital LLP
-Analyzed private equity sales data and market trends using Python, improving investment decision-making through more accurate financial forecasts and reports. Developed promotional materials to streamline fund operations.
+Enhanced financial forecasts by analyzing private equity sales balance sheets using Python’s Pandas package. Calculated key metrics such as debt-to-equity ratios, leading to more accurate financial modeling.
 
 ### Quantitative Research Intern @ [IPSOS](https://www.ipsos.com/)
-Developed Python scripts for statistical analysis and Excel VBA macros, enhancing market research efficiency. Provided actionable recommendations for market strategy improvements for DiDi’s South America market.
+Conducted A/B testing and statistical analysis using Python to evaluate the effectiveness of different marketing strategies, uncovering 8% increase in customer engagement for DiDi’s South American market.
+
 
 ---
 
