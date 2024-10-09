@@ -4,8 +4,20 @@
 
 I am currently pursuing my Master's in Business Analytics at UC Davis, with two years of professional experience in data analytics and marketing. My passion lies in using data-driven insights to optimize business strategies and improve decision-making.
 
+- 👕 [Portfolio](https://zichengalexzhao.github.io/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zichengalexzhao)
-- 📫 **Email:** zichengalexzhao@gmail.com
+- 📫 zichengalexzhao@gmail.com
+
+---
+## 🔥 News
+
+• 2024.08: 📈 Built cluster model to segment customers by K-Means model; Utilized Logistic Regression Model to predict churn rate
+
+• 2024.08: 🚩 New practicum program coming(Expected to 2025.06): [Alexander Tutoring](https://alexandertutoring.com/)
+
+• 2024.07: 🛸 Start my new journey in San Francisco, California
+
+• 2024.03: 🎉 Admitted by [UCDavis MSBA Program](https://gsm.ucdavis.edu/master-science-business-analytics-msba)
 
 ---
 
