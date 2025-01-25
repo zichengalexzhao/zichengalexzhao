@@ -11,6 +11,8 @@ I am currently pursuing my Master's in Business Analytics at UC Davis, with two 
 ---
 ## 🔥 News
 
+• 2025.01: 🏆 Be certified with **Tableau Desktop Specialist**
+
 • 2024.08: 📈 Built cluster model to segment customers by K-Means model; Utilized Logistic Regression Model to predict churn rate
 
 • 2024.08: 🚩 New practicum program coming(Expected to 2025.06): [Alexander Tutoring](https://alexandertutoring.com/)
