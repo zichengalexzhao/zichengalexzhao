@@ -57,7 +57,7 @@ Analyzed social media sentiment by leveraging NLP techniques and interactive vis
 
 *Tools: Python, Statistical Analysis, Difference-in-Difference Analysis, Hypothesis Analysis* 
 
-Emperically analyzing that China's official GDP growth figures are highly likely overstated
+Empirically analyzing that China's official GDP growth figures are highly likely overstated
 
 
 ### [BCG - Data Scientist Job Simulation](https://github.com/zichengalexzhao/BCGDataScienceProject)
