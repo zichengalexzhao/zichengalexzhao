@@ -47,23 +47,33 @@ Conducted A/B testing and statistical analysis using Python to evaluate the effe
 ## 📊 Key Projects
 
 ### [Twitter US Airline Sentiment Analysis Dashboard](https://sentiment-dashboard-123-9d1f22ef9453.herokuapp.com/)
+
 *Tools: Python, Dash, Plotly, Heroku, NLP* 
+
 Analyzed social media sentiment by leveraging NLP techniques and interactive visualizations.
 
 ### [BCG - Data Scientist Job Simulation](https://github.com/zichengalexzhao/BCGDataScienceProject)
+
 *Tools: Python, Random Forest Regression*  
+
 Led a customer churn analysis by utilizing the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
 
 ### [Impact of Elon Musk’s Tweets on Tesla's Stock Price](https://drive.google.com/file/d/1XM0R5Wx0B1BDIwM_qSjXGOVKmUtJIVvP/view?usp=drive_link)
+
 *Tools: Python, SQL, Random Forest Regression*  
+
 Analyzed the effect of Elon Musk’s tweets on Tesla's stock prices and developed a predictive model using sentiment analysis.
 
 ### [Mating Motives and Consumer Preferences](https://github.com/zichengalexzhao/matingmotive)
+
 *Tools: SPSS, R, A/B Testing, Experiment Design*  
+
 Explored how mating motives influence consumer preferences for appearance vs. functionality in product choices, revealing significant gender-specific trends.
 
 ### Product Anthropomorphism in Luxury Consumption
+
 *Tools: SPSS, R, A/B Testing, Experiment Design*
+
 Investigated the impact of anthropomorphism on consumer purchase intentions, offering insights into marketing strategies for luxury goods.
 
 ---
