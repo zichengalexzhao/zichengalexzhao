@@ -13,7 +13,7 @@ I am currently pursuing my Master's in Business Analytics at UC Davis, with two 
 
 • 2025.02: 🚀 Launched the Interactive Sentiment Analysis Dashboard on Heroku
 
-• 2025.01: 🏆 gained **[Tableau Desktop Specialist](https://www.credly.com/badges/6a04c7f6-0662-49f5-86b7-79bca069c3c6/linked_in_profile)** certificate
+• 2025.01: 🏆 gained [Tableau Desktop Specialist](https://www.credly.com/badges/6a04c7f6-0662-49f5-86b7-79bca069c3c6/linked_in_profile) certificate
 
 • 2024.12: 🇨🇳 Analyzed the [Shanwen Gao](https://www.linkedin.com/in/shanwen-gao-8ab8585/?originalSubdomain=cn)'s [speech](https://www.youtube.com/watch?v=1TiZCP5Mnms) challenging conventional wisdom about China’s economic recovery after the bubble burst
 
