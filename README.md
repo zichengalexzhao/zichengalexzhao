@@ -1,6 +1,6 @@
 # Hi, I'm Alex Zhao! 👋
 
-🎓 **MS Business Analytics** @ UC Davis | 📊 Data Analyst | 💡 Passionate about Leveraging Data for Business Insights
+🎓 **MS Business Analytics** @ UC Davis | 📊 Data Scientist | 💡 Passionate about Leveraging Data for Business Insights
 
 I am currently pursuing my Master's in Business Analytics at UC Davis, with two years of professional experience in data analytics and marketing. My passion lies in using data-driven insights to optimize business strategies and improve decision-making.
 
