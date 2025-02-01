@@ -13,7 +13,9 @@ I am currently pursuing my Master's in Business Analytics at UC Davis, with two 
 
 • 2025.02: 🚀 Launched the Interactive Sentiment Analysis Dashboard on Heroku
 
-• 2025.01: 🏆 Become a certified **Tableau Desktop Specialist**
+• 2025.01: 🏆 gained **Tableau Desktop Specialist** certificate
+
+• 2024.12: 🇨🇳 Analyzed the [Shanwen Gao](https://www.linkedin.com/in/shanwen-gao-8ab8585/?originalSubdomain=cn)'s [speech](https://www.youtube.com/watch?v=1TiZCP5Mnms) challenging conventional wisdom about China’s economic recovery after the bubble burst
 
 • 2024.08: 📈 Built cluster model to segment customers by K-Means model; Utilized Logistic Regression Model to predict churn rate
 
@@ -30,7 +32,6 @@ I am currently pursuing my Master's in Business Analytics at UC Davis, with two 
 ### Data Analyst(Practicum Project) @ [Alexander Tutoring](https://alexandertutoring.com/)
 
 Constructed a Weighted Logistic Regression model with 74% accuracy to predict customer churn, flagging at-risk customers. Developed a K-means clustering model to segment customers by payment behavior, identifying high, moderate, and low spenders.
-
 
 ### Marketing Analyst Manager (Practicum Project) @ [Shell](https://www.shell.com.cn/en_cn.html)
 Led a team to develop data-driven marketing strategies, achieving a **12% increase** in campaign effectiveness by optimizing engagement metrics and analyzing results using R and Tableau. Enhanced client satisfaction through improved communication and rewards management.
@@ -51,6 +52,13 @@ Conducted A/B testing and statistical analysis using Python to evaluate the effe
 *Tools: Python, Dash, Plotly, Heroku, NLP* 
 
 Analyzed social media sentiment by leveraging NLP techniques and interactive visualizations.
+
+### [Analysis of Shanwen Gao's Speech](https://github.com/zichengalexzhao/SpeechofShanwenGao)
+
+*Tools: Python, Statistical Analysis, Difference-in-Difference Analysis, Hypothesis Analysis* 
+
+Emperically analyzing that China's official GDP growth figures are highly likely overstated
+
 
 ### [BCG - Data Scientist Job Simulation](https://github.com/zichengalexzhao/BCGDataScienceProject)
 
