@@ -17,6 +17,8 @@ I am currently pursuing my Master's in Business Analytics at UC Davis, with two 
 
 • 2024.12: 🇨🇳 Analyzed the [Shanwen Gao](https://www.linkedin.com/in/shanwen-gao-8ab8585/?originalSubdomain=cn)'s [speech](https://www.youtube.com/watch?v=1TiZCP5Mnms) challenging conventional wisdom about China’s economic recovery after the bubble burst
 
+• 2024.10: 🏉 Attended USA Touch Rugby Tournament representing San Francisco!
+
 • 2024.08: 📈 Built cluster model to segment customers by K-Means model; Utilized Logistic Regression Model to predict churn rate
 
 • 2024.08: 🚩 New practicum program coming(Expected to 2025.06): [Alexander Tutoring](https://alexandertutoring.com/)
