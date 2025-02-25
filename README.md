@@ -11,7 +11,7 @@ I am currently pursuing my Master's in Business Analytics at UC Davis, with two 
 ---
 ## 🔥 News
 
-• 2025.02: 🤖 [Automates job application tracking](https://github.com/zichengalexzhao/job-app-tracker) by fetching relevant emails, extracting job details using LLM, and visualizing the data
+• 2025.02: 🤖 [Automated job application tracking](https://github.com/zichengalexzhao/job-app-tracker) by fetching relevant emails, extracting job details using LLM, and visualizing the data
 
 • 2025.02: 🚀 Launched the [Interactive Sentiment Analysis Dashboard](https://sentiment-dashboard-123-9d1f22ef9453.herokuapp.com/) on Heroku
 
