@@ -120,12 +120,5 @@ School of Management
 
 ---
 
-## 💼 Skills
-
-- **Languages:** Python, R, SQL, VBA  
-- **Data Tools:** Tableau, SPSS, Excel  
-- **Areas of Expertise:** Data Analysis, Predictive Modeling, Market Research, Business Strategy, Marketing Analytics
-
----
 
 *Feel free to connect with me on LinkedIn or reach out via email!*
