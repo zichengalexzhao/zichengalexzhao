@@ -37,7 +37,7 @@ I am currently pursuing my Master's in Business Analytics at UC Davis, with two 
 
 Constructed a Weighted Logistic Regression model with 74% accuracy to predict customer churn, flagging at-risk customers. Developed a K-means clustering model to segment customers by payment behavior, identifying high, moderate, and low spenders.
 
-### Marketing Analyst Manager (Practicum Project) @ [Shell](https://www.shell.com.cn/en_cn.html)
+### Marketing Analyst @ [Shell](https://www.shell.com.cn/en_cn.html)
 Led a team to develop data-driven marketing strategies, achieving a **12% increase** in campaign effectiveness by optimizing engagement metrics and analyzing results using R and Tableau. Enhanced client satisfaction through improved communication and rewards management.
 
 ### Data Analyst @ Ningbo Powerhouse Capital LLP
